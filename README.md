@@ -1,5 +1,3 @@
-Certainly! Here's a more polished and professional version of the `README.md` file with emojis to make it visually appealing:
-
 # � Kanye Quotes
 
 A simple and fun Python application that displays random quotes from Kanye West using the `tkinter` library and the [Kanye.rest](https://kanye.rest/) API.
